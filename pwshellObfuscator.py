@@ -1,6 +1,5 @@
 import os
 import string
-from pprint import pprint
 import random 
 
 # List of environment variables to consider for obfuscation
